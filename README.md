@@ -1,3 +1,6 @@
 # testing-practice
-Practice TDD in JS using Jest
-used Babel to use import statement in ES6
+This project is for practicing TDD in JS, writing unit testing and run them.
+
+# Details
+- Jest is used for testing
+- Babel is used to use import statement(ES6) with Jest
